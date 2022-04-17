@@ -2,7 +2,7 @@ LiPow项目是基于STM32G0的开源Lipo电池充电系统，采用C语言编写
 
 
 
-![](../images/LiPow.jpg)
+![](./images/LiPow.jpg)
 
 
 

@@ -4,7 +4,7 @@ TensorFlow Lite是专门针对移动和嵌入式设备的特性重新实现的Te
 
 Tensorflow Lite模型的数据格式与Tensorflow桌面端不同，需要使用Tensorflow Lite转换为.tflite格式，然后应用到移动端。
 
-![](../images/TensorFlowLite.png)
+![](./images/TensorFlowLite.png)
 
 
 

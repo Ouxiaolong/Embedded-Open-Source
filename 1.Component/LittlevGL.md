@@ -2,7 +2,7 @@ LittlevGL是一个免费开源的图像库，采用C语言编写，提供在嵌�
 
 
 
-![](../images/LittlevGL.png)
+![](./images/LittlevGL.png)
 
 
 

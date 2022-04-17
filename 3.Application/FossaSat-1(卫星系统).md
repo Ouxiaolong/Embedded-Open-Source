@@ -2,7 +2,7 @@ FOSSASAT-1 是一个小型的开源卫星系统，你没有看出，就是卫星
 
 
 
-![](../images/FOSSASAT-1.jpg)
+![](./images/FOSSASAT-1.jpg)
 
 
 

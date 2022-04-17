@@ -10,7 +10,7 @@ GTK+虽然是用C语言写的，但是您可以使用你熟悉的语言来使用
 
 
 
-![](../images/wall-glade.png)
+![](./images/wall-glade.png)
 
 
 
