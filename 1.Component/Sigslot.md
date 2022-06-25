@@ -2,4 +2,4 @@ Sigslot是一个线程安全、类型安全，用C++实现的sig/slot机制(sig/
 
 
 
-项目地址：http://sigslot.sourceforge.net/
+[项目地址](http://sigslot.sourceforge.net/)

@@ -2,8 +2,8 @@ GLib 是一个包含很多有用的 C 程序的开发包，例如树、哈希、
 
 
 
-项目地址：https://gitlab.gnome.org/GNOME/glib
+[项目地址](https://gitlab.gnome.org/GNOME/glib)
 
-开发手册：https://developer.gnome.org/glib/stable/
+[开发手册](https://developer.gnome.org/glib/stable/)
 
-下载地址：https://download.gnome.org/sources/glib/
+[下载地址](https://download.gnome.org/sources/glib/)

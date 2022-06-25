@@ -6,5 +6,5 @@ LittlevGL是一个免费开源的图像库，采用C语言编写，提供在嵌�
 
 
 
-项目地址：https://github.com/lvgl/lvgl
+[项目地址](https://github.com/lvgl/lvgl)
 
